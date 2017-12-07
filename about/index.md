@@ -35,7 +35,7 @@ comments: false
    <p><b>Misi</b>
    <p>1) Melaksanakan pendidikan dan pengajaran untuk melahirkan sumber daya manusia yang berkualitas secara akademik dan profesional            serta memiliki integritas pribadi sebagai sarjana muslim. 
    <p>2) Melaksanakan penelitian dan pengkajian untuk mengembangkan ilmu pengetahuan, teknologi dan seni dengan menggunakan paradigma            Islam. 
-   <p>3) Memanfaatkan ilmu pengetahuan, teknologi dan seni sebagai pengabdian kepada masyarakat dengan menggunakan paradigma Islami.        <p>4) Menyiapkan sumber daya manusia serta sarana dan prasarana untuk menunjang kelancaran pelaksanaan tridharma perguruan tinggi.
+   <p>3) Memanfaatkan ilmu pengetahuan, teknologi dan seni sebagai pengabdian kepada masyarakat dengan menggunakan paradigma Islami.        <p>4) Menyiapkan sumber daya manusia serta sarana dan prasarana untuk menunjang kelancaran pelaksanaan tridharma perguruan tinggi.<p>
        <b>FAKULTAS UIN SUSKA RIAU</b>
    <p>Pertanian dan Peternakan 
    <p>1) Peternakan 

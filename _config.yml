@@ -1,5 +1,5 @@
 # Site
-title:              Emi Rizki
+title:              Emi Rizki Ayunanda
 bio:                'My Story Page'
 description:        "Berbagi itu indah"
 reading_time:       true
@@ -38,29 +38,15 @@ disqus_shortname:   taylantatli
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            username
-facebook:           username
-github-url:         username
+twitter:            emirizki_ayunanda
+facebook:           Emi Rizki Ayunanda
+github-url:         emirizkiayunanda.github.io
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
-#xing:              username
-instagram:          username
-#lastfm:            username
-#tumblr:            username
+#linkedin:          Emi Rizki Ayunanda
+instagram:          emi_rizkiayunanda
 #medium:            '@username'
-#pinterest:         username
-#foursquare:        username
-steam:              username
-#dribbble:          username
-#youtube:           username
-#youtube-channel:   channel
-#soundcloud:        username
-#weibo:             username
-#flickr:            username
-#codepen:           username
-#keybase:           username
+#youtube:           Emi Rizki Ayunanda
 #xmpp:              username@server.com
-#hackernews:        username
 
 # Gems
 gems:

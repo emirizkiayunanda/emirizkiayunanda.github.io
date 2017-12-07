@@ -19,7 +19,7 @@ comments: false
     <p>2) Menghasilkan penelitian Sistem Informasi berkualitas yang mampu mendukung pada kegiatan pelayanan  kepada masyarakat yang               berkualitas.
     <p>3) Terwujudnya kegiatan pengabdian kepada masyarakat yang berkualitas, melalui penerapan pengetahuan dan hasil penelitian Sistem           Informasi dan Islam, sehingga mampu memberikan pendampingan kepada masyarakat, terutama pada penyelesaian permasalahan                   keislaman.
         
-    <b>Fakultas Sains & Teknologi</b>
+   <p><b>Fakultas Sains & Teknologi</b>
    <p><b>Visi</b>
          Terwujudnya Fakultas Sains dan Teknologi sebagai fakultas yang menyelenggarakan pendidikan integrasi sains dan Islam,                    penelitian, dan pengabdian kepada masyarakat, yang berkualitas pada tahun 2018.
    <p><b>Misi</b>
@@ -31,6 +31,6 @@ comments: false
    <p>2) Menghasilkan penelitian berkualitas yang mampu mendukung pada kegiatan pelayanan kepada masyarakat yang berkualitas.
    <p>3) Terwujudnya kegiatan pengabdian kepada masyarakat yang berkualitas, melalui penerapan pengetahuan dan hasil penelitian sains            dan teknologi, sehingga mampu memberikan pendampingan kepada masyarakat, terutama pada penyelesaian permasalahan keislaman.
 
-    <b>UIN SUSKA RIAU</b>
+    <p><b>UIN SUSKA RIAU</b>
 
 <p>UIN SUSKA RIAU

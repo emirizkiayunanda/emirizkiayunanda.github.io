@@ -28,6 +28,4 @@ comments: false
    <p><b>Tujuan</b>
    <p>1) Menghasilkan lulusan yang berkualitas dengan disertai keimanan Islam yang kuat.
    <p>2) Menghasilkan penelitian berkualitas yang mampu mendukung pada kegiatan pelayanan kepada masyarakat yang berkualitas.
-   <p>3) Terwujudnya kegiatan pengabdian kepada masyarakat yang berkualitas, melalui penerapan pengetahuan dan hasil penelitian sains            dan teknologi, sehingga mampu memberikan pendampingan kepada masyarakat, terutama pada penyelesaian permasalahan keislaman.<p><b>UIN SUSKA RIAU</b>
-
-<p>UIN SUSKA RIAU
+   <p>3) Terwujudnya kegiatan pengabdian kepada masyarakat yang berkualitas, melalui penerapan pengetahuan dan hasil penelitian sains            dan teknologi, sehingga mampu memberikan pendampingan kepada masyarakat, terutama pada penyelesaian permasalahan keislaman.

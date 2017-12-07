@@ -8,7 +8,7 @@ comments: false
     
 <center><a href="http://taylantatli.github.io/Moon"><b>Student</b></a> of Information Systems at Faculty of Science and Technology State  University of Sultan Syarif Kasim Riau.</center>
 
- <font color="#ADFF2F">Prodi Sistem Informasi</font>
+ <font-color="#ADFF2F">Prodi Sistem Informasi</font>
    Sejak tahun 2014 saya mulai berkuliah di Jurusan Sistem Informasi Fakultas Sains & Teknologi Universitas Islam Negeri Sultan Syarif      Kasim Riau yang beralamat di Jl. H.R. Soebrantas KM. 18 No. 155 Simpang Baru Panam Pekanbaru. Prodi Sistem Informasi memiliki Visi &    Misi sebagai berikut:<p><b>Visi</b>
 <p>        Terwujudnya Prodi  sistem Informasi sebagai prodi yang menyelenggarakan pendidikan integrasi ilmu sistem informasi dan Islam, penelitian, dan pengabdian kepada masyarakat, yang berkualitas pada tahun 2018.
  <p>       <b>Misi</b>

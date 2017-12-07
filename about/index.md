@@ -10,7 +10,7 @@ comments: false
 
 ## Prodi Sistem Informasi
    Sejak tahun 2014 saya mulai berkuliah di Jurusan Sistem Informasi Fakultas Sains & Teknologi Universitas Islam Negeri Sultan Syarif      Kasim Riau yang beralamat di Jl. H.R. Soebrantas KM. 18 No. 155 Simpang Baru Panam Pekanbaru. Prodi Sistem Informasi memiliki Visi &    Misi sebagai berikut:
-        <b>Visi</b>
+       <p> <b>Visi</b></p>
         Terwujudnya Prodi  sistem Informasi sebagai prodi yang menyelenggarakan pendidikan integrasi ilmu sistem informasi dan Islam,           penelitian, dan pengabdian kepada masyarakat, yang berkualitas pada tahun 2018.
         <b>Misi</b>
         1) Menyelenggarakan pendidikan dan pengajaran berkualitas yang mengintegrasikan antara ilmu sistem informasi dan Islam.

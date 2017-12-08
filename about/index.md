@@ -8,6 +8,8 @@ comments: false
     
 <center><a href="http://taylantatli.github.io/Moon"><b>I'm a Student</b></a> of Information Systems at Faculty of Science and Technology at State  Islamic University of Sultan Syarif Kasim Riau.</center>
     UIN SUSKA RIAU
+    
+    
       <p><b> Selengkapnya di:</b>  
     <a href="https://sif.uin-suska.ac.id/">https://sif.uin-suska.ac.id/</a>
     <a href="https://fst.uin-suska.ac.id/">https://fst.uin-suska.ac.id/</a>

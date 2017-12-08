@@ -33,7 +33,12 @@ comments: false
    <p><b>Tujuan</b>
    <p>1) Menghasilkan lulusan yang berkualitas dengan disertai keimanan Islam yang kuat.
    <p>2) Menghasilkan penelitian berkualitas yang mampu mendukung pada kegiatan pelayanan kepada masyarakat yang berkualitas.
-   <p>3) Terwujudnya kegiatan pengabdian kepada masyarakat yang berkualitas, melalui penerapan pengetahuan dan hasil penelitian sains            dan teknologi, sehingga mampu memberikan pendampingan kepada masyarakat, terutama pada penyelesaian permasalahan keislaman.<p>    <b>UIN SUSKA RIAU</b>
+   <p>3) Terwujudnya kegiatan pengabdian kepada masyarakat yang berkualitas, melalui penerapan pengetahuan dan hasil penelitian sains            dan teknologi, sehingga mampu memberikan pendampingan kepada masyarakat, terutama pada penyelesaian permasalahan keislaman.
+
+<p><b>Selengkapnya di</b> 
+        <a href="https://fst.uin-suska.ac.id/">https://fst.uin-suska.ac.id/</a>
+    
+<p><b>UIN SUSKA RIAU</b>
    <p>Universitas Islam Negeri Sultan Syarif Kasim Riau, atau sering disebut dengan UIN SUSKA Riau adalah salah satu perguruan tinggi          negeri dibawah naungan kementrian agama di Riau. Selain kampusnya besar, jurusan dan prodi semakin banyak pilihannya. Karena            kampus ini termasuk salah satu kampus islam terbaik dan banyak peminatnya. Berikut ini adalah nama sekaligus profil untuk                Universitas Islam Negeri Sultan Syarif Kasim Riau. 
    <p><b>Visi</b>
        Visi UIN Sultan Syarif Kasim Riau adalah mewujudkan Universitas Islam Negeri sebagai teknologi, dan seni secara integral di              kawasan Asia Tenggara”.
@@ -90,9 +95,10 @@ comments: false
    <p>1) Pendidikan Agama Islam 
    <p>2) Ekonomi Islam 
    <p>3) Hukum Islam
+       
 
-
-
+<p><b>Selengkapnya di</b> 
+        <a href="https://www.uin-suska.ac.id/">https://www.uin-suska.ac.id/</a>
 
 
 

@@ -18,7 +18,9 @@ comments: false
     <p><b>Tujuan</b>
     <p>1) Menghasilkan lulusan Sistem Informasi yang berkualitas dengan disertai keimanan Islam yang kuat.
     <p>2) Menghasilkan penelitian Sistem Informasi berkualitas yang mampu mendukung pada kegiatan pelayanan  kepada masyarakat yang               berkualitas.
-    <p>3) Terwujudnya kegiatan pengabdian kepada masyarakat yang berkualitas, melalui penerapan pengetahuan dan hasil penelitian Sistem           Informasi dan Islam, sehingga mampu memberikan pendampingan kepada masyarakat, terutama pada penyelesaian permasalahan                   keislaman.<p><b>Fakultas Sains & Teknologi</b>
+    <p>3) Terwujudnya kegiatan pengabdian kepada masyarakat yang berkualitas, melalui penerapan pengetahuan dan hasil penelitian Sistem           Informasi dan Islam, sehingga mampu memberikan pendampingan kepada masyarakat, terutama pada penyelesaian permasalahan                   keislaman.<p>
+<p><b>Selengkapnya di</b> http://sif.uin-suska.ac.id
+    <b>Fakultas Sains & Teknologi</b>
    <p><b>Visi</b>
       <p>Terwujudnya Fakultas Sains dan Teknologi sebagai fakultas yang menyelenggarakan pendidikan integrasi sains dan Islam,                    penelitian, dan pengabdian kepada masyarakat, yang berkualitas pada tahun 2018.
    <p><b>Misi</b>

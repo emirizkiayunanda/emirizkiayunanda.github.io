@@ -36,10 +36,57 @@ comments: false
    <p>1) Melaksanakan pendidikan dan pengajaran untuk melahirkan sumber daya manusia yang berkualitas secara akademik dan profesional            serta memiliki integritas pribadi sebagai sarjana muslim. 
    <p>2) Melaksanakan penelitian dan pengkajian untuk mengembangkan ilmu pengetahuan, teknologi dan seni dengan menggunakan paradigma            Islam. 
    <p>3) Memanfaatkan ilmu pengetahuan, teknologi dan seni sebagai pengabdian kepada masyarakat dengan menggunakan paradigma Islami.        <p>4) Menyiapkan sumber daya manusia serta sarana dan prasarana untuk menunjang kelancaran pelaksanaan tridharma perguruan tinggi.<p>
+       
        <b>FAKULTAS UIN SUSKA RIAU</b>
-   <p>Pertanian dan Peternakan 
-   <p>1) Peternakan 
-   <p>1) Agroteknologi
+   <p>A. Tarbiyah dan Keguruan 
+   <p>1) Pendidikan Agama Islam 
+   <p>2) Pendidikan Bahasa Arab 
+   <p>3) Jurusan Kependidikan Islam 
+   <p>4) Jurusan Pendidikan Bahasa Inggris 
+   <p>5) Pendidikan Matematika 
+   <p>6) Pendidikan Guru Madrasah Ibtidaiyah
+   <p>7) Pendidikan Kimia 
+   <p>8) Pendidikan IPS Ekonomi
+       
+     <p>B. Ushuluddin
+     <p>1) Aqidah Filsafat 
+     <p>2) Tafsir Hadis 
+     <p>3) Perbandingan Agama
+
+   <p>C. Psikologi
+    
+     <p>D. Ekonomi dan Ilmu Sosial 
+     <p>1) Manajemen Akuntansi S1 
+     <p>2) Administrasi Negara D3 
+     <p>3) Akuntansi D3 
+     <p>4) Manajemen Perusahaan D3 
+     <p>5) Administrasi Perpajakan
+
+   <p>E. Syariah dan Ilmu Hukum
+    
+     <p>F. Dakwah dan Ilmu Komunikasi
+     <p>1) Ilmu Komunikasi 
+     <p>2) Manajemen Dakwah Program D3 Pers dan Garfika 
+     <p>3) Bimbingan dan Penyuluhan Islam 
+     <p>4) Pengembangan Masyarakat Islam
+     
+   <p>G. Sains dan Teknologi 
+   <p>1) Teknik Informatika 
+   <p>2) Sistem Informasi 
+   <p>3) Teknik Industri 
+   <p>4) Teknik Elektro 
+   <p>5) Matematika Terapan
+
+     <p>H. Pertanian dan Peternakan 
+     <p>1) Peternakan 
+     <p>1) Agroteknologi
+     
+   <p>I. Pascasarjana 
+   <p>1) Pendidikan Agama Islam 
+   <p>2) Ekonomi Islam 
+   <p>3) Hukum Islam
+
+
 
 
 

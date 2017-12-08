@@ -7,11 +7,6 @@ comments: false
 ---
     
 <center><a href="http://taylantatli.github.io/Moon"><b>I'm a Student</b></a> of Information Systems at Faculty of Science and Technology at State  Islamic University of Sultan Syarif Kasim Riau.</center>
-
-
-        <a href="https://sif.uin-suska.ac.id/">https://sif.uin-suska.ac.id/</a>
-        <a href="https://fst.uin-suska.ac.id/">https://fst.uin-suska.ac.id/</a>
-        <a href="https://fst.uin-suska.ac.id/">https://fst.uin-suska.ac.id/</a>
     UIN SUSKA RIAU
 <p><b>Prodi Sistem Informasi</b>
    <p>Sejak tahun 2014 saya mulai berkuliah di Jurusan Sistem Informasi Fakultas Sains & Teknologi Universitas Islam Negeri Sultan Syarif  Kasim Riau yang beralamat di Jl. H.R. Soebrantas KM. 18 No. 155 Simpang Baru Panam Pekanbaru. Prodi Sistem Informasi memiliki Visi &    Misi sebagai berikut:<p><b>Visi</b>

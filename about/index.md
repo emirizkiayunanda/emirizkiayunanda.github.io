@@ -102,9 +102,6 @@ comments: false
         <a href="https://www.uin-suska.ac.id/">https://www.uin-suska.ac.id/</a>
 
 
-  <p><b> Silahkan kunjungi:</b>  
-    <a href="https://sif.uin-suska.ac.id/">https://sif.uin-suska.ac.id/</a>
-    <a href="https://fst.uin-suska.ac.id/">https://fst.uin-suska.ac.id/</a>
-    <a href="https://fst.uin-suska.ac.id/">https://fst.uin-suska.ac.id/</a>
+  
 
        
